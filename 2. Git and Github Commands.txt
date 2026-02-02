@@ -17,3 +17,6 @@ For push all the files (git add .)
 git status
 git commit -m "Commit Massege"
 git push
+
+creat a new branch
+git checkout -b "Branch Name"
